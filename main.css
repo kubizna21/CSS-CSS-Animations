@@ -19,6 +19,17 @@ html {
   border-radius: 2px;
 }
 
+.transform-demo > div {
+  height: 40px;
+  background: salmon;
+  width: 20%;
+  margin: auto;
+  display: inline-block;
+  transform: translate(150px);
+  opacity: 0.5;
+}
+
+
 /****************************************
 * Transform
 ****************************************/
